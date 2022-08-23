@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/70142962/147472214-4dab464f-e723-453c-8f84-7b60c0ac2332.png)
 
-<h2>- Minha conta </h2>
+<h2>- Conta </h2>
 
 ![image](https://user-images.githubusercontent.com/70142962/147472506-cbe547f0-0e43-4fab-a0bd-f72c72b6e41e.png)
 
