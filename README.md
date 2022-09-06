@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">🚀 Projeto final do curso de React da Origamid (https://www.origamid.com).</p>
+<p align="center"> Projeto final do curso de React da Origamid (https://www.origamid.com).</p>
 <p align="center">Disponível em: https://dogs-social-media-react.herokuapp.com</p>
 
 <h2>- Login </h2>
