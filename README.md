@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/70142962/147471948-284565a3-8d3d-458c-84e6-cb80081dad46.png)
 
-<h2>- Estatísticas </h2> <i>(utilizando bibioteca externa Victory | https://github.com/FormidableLabs/victory)</i>
+<h2>- Estatísticas </h2> <i>(utilizou-se bibioteca externa Victory | https://github.com/FormidableLabs/victory)</i>
 
 ![image](https://user-images.githubusercontent.com/70142962/147472214-4dab464f-e723-453c-8f84-7b60c0ac2332.png)
 
